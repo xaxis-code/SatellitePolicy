@@ -1,8 +1,5 @@
 # Satellite Privacy Policy
 
-## Privacy Policy
-
-
 #### Introduction 
 
 Programmatic trading involves many time and detail-intensive tasks, making developing and implementation of strategy more difficult for traders at Xaxis. We know because you have told us!
