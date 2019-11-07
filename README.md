@@ -6,12 +6,12 @@ Programmatic trading involves many time and detail-intensive tasks, making devel
 
 Copilot Satellite has been built to help with this—to make programmatic media trading at Xaxis less tedious and more strategic for Copilot users.
 
-As a web browser extension that can access Copilot and DSP information in real-time, Copilot Satellite is in a unique position to assist with many of the repetitive and detail-intensive trader activities that are executed across one or multiple web-based platforms simultaneously. 
+As a web browser extension that can access Copilot information in real-time, Copilot Satellite is in a unique position to assist with many of the repetitive and detail-intensive trader activities that are executed across one or multiple web-based platforms simultaneously. 
 
 
 #### Why does Copilot Satellite collect data?
 
-In order to enable the Copilot Links functionality, Copilot Satellite must gather your Copilot User ID to be able to identify your specific DSP line items and their attached Copilot Strategies and create hyperlinks.
+In order to enable the Copilot Links functionality, Copilot Satellite must gather your Copilot User ID to be able to identify your specific DSP line items, their attached Copilot Strategies, and to create hyperlinks.
 
 To provide useful, time-saving features for repetitive tasks in general, Copilot Satellite must have a means of “knowing” what activities you are trying to do. For this reason, Copilot Satellite collects data
 
@@ -29,7 +29,7 @@ In short: Copilot Satellite does not collect any information from you that you w
 
 #### What data does Copilot Satellite collect?
 
-We collect a concise list of data points from a shortlist of domains. The data collected includes the following:
+We collect a concise list of data points from your browser as you navigate a finite shortlist of websites. The data collected includes the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Copilot User ID
 
@@ -48,7 +48,7 @@ We collect a concise list of data points from a shortlist of domains. The data c
 
 #### Domains
 
-This information is collected *only* from the following specific domains relevant to the job of programmatic media trading within your specific region/market. 
+This information is collected *only* while browsing the following specific domains relevant to the job of Xaxis programmatic media trading within your specific region/market. 
 
 |Domain| URL|
 |:---|:---|
