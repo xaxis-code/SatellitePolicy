@@ -1,5 +1,5 @@
 # Satellite Privacy Policy
-Satellite Privacy Policy
+
 ## Privacy Policy
 
 
